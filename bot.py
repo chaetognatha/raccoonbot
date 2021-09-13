@@ -1,6 +1,5 @@
 # bot.py
 import os
-import random
 import discord
 from dotenv import load_dotenv # to load api key and keep code neat
 from translate import from_spanish # the translation api is handled in a module
